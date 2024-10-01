@@ -1,10 +1,7 @@
 # 🎥 Sinema Rezervasyonu 🍿
 
-Bu projede **Ebru** sanatını tanıtmak için hazırladığım web sitesinin kaynak kodları bulunmaktadır.
+ Bir sinema koltuk rezervasyon sistemini simüle etmek için tasarlanmıştır.
 
-
-
-Bu JavaScript kodu, bir sinema koltuk rezervasyon sistemini simüle etmek için tasarlanmıştır
 ## 📽️ Screenshots 📽️
 
 ![](cinema.gif)
@@ -44,4 +41,4 @@ Etkinlik Dinleyicileri:
 
 container için bir tık (click) etkinlik dinleyicisi eklenir: Bir koltuk tıklandığında, eğer koltuk rezervli değilse, bu koltuk seçilmiş olarak işaretlenir ya da seçim kaldırılır.
 movieList için bir değişim (change) etkinlik dinleyicisi eklenir: Film seçimi değiştiğinde toplam hesaplamalar tekrar yapılır.
-Bu sistemi kullanarak kullanıcı, koltukları seçebilir, film fiyatına göre ödenecek toplam tutarı görebilir ve bu veriler tarayıcı kapandığında bile localStorage kullanılarak saklanır. Bu, bir sinema rezervasyon sistemi veya koltuk rezervasyonu uygulaması için temel bir yapıyı temsil eder.# 26-Sinema-Rezervasyon
+Bu sistemi kullanarak kullanıcı, koltukları seçebilir, film fiyatına göre ödenecek toplam tutarı görebilir ve bu veriler tarayıcı kapandığında bile localStorage kullanılarak saklanır. Bu, bir sinema rezervasyon sistemi veya koltuk rezervasyonu uygulaması için temel bir yapıyı temsil eder.
