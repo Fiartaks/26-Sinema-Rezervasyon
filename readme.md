@@ -2,7 +2,7 @@
 
 Bu projede **Ebru** sanatını tanıtmak için hazırladığım web sitesinin kaynak kodları bulunmaktadır.
 
-## https://fiartaks.netlify.app/
+
 
 Bu JavaScript kodu, bir sinema koltuk rezervasyon sistemini simüle etmek için tasarlanmıştır
 ## 📽️ Screenshots 📽️
