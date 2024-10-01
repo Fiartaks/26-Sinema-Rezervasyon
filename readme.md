@@ -13,7 +13,7 @@ Bu JavaScript kodu, bir sinema koltuk rezervasyon sistemini simüle etmek için 
 
 
 
-##YAPILANLAR:
+## 🎞️ YAPILANLAR 🎞️:
 
 HTML Elemanlarını Seçme:
 
