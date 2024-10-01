@@ -1,4 +1,19 @@
-Bu JavaScript kodu, bir sinema koltuk rezervasyon sistemini simüle etmek için tasarlanmıştır. Adım adım anlatacak olursak, kodun yaptığı işlemler şu şekildedir:
+# 🎥 Sinema Rezervasyonu 🍿
+
+Bu projede **Ebru** sanatını tanıtmak için hazırladığım web sitesinin kaynak kodları bulunmaktadır.
+
+## https://fiartaks.netlify.app/
+
+Bu JavaScript kodu, bir sinema koltuk rezervasyon sistemini simüle etmek için tasarlanmıştır
+## 📽️ Screenshots 📽️
+
+![](cinema.gif)
+
+
+
+
+
+##YAPILANLAR:
 
 HTML Elemanlarını Seçme:
 
